@@ -1,0 +1,5 @@
+Иван, ivan@gm.com, 18
+Татьяна, tat@gm.com, 22 
+Сергей, srg@ml.ru, 33 
+Федор, fr@ml.ru, 41 
+Елена, el@gm.com, 27 
